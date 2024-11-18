@@ -1,2 +1,4 @@
 *.rds
 /.quarto/
+.DS_Store
+data/
